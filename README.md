@@ -1,2 +1,2 @@
 # hello-world
-I support President Trump.
+I DO NOT support President Trump.
